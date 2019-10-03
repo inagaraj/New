@@ -1,2 +1,2 @@
 # NewYear Wish
-https://inagaraj.github.io/New/
+<a href="https://inagaraj.github.io/Newyear/">View Demo</a>
